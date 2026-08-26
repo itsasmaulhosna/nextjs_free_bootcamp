@@ -4,7 +4,7 @@ console.log(name[3], number[3]);
 
 name.push('Rita');
 number.pop(5);
-// console.log(name, number);
+console.log(name, number);
 
 name.unshift('Zain');
 name.shift();
